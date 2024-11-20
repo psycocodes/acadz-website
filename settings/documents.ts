@@ -156,7 +156,7 @@ export const Documents: Paths[] = [
             items: [
               {
                 title: "Editing",
-                href: "/ediitng-flashcards",
+                href: "/editng-flashcards",
               },
               {
                 title: "Sessions",
